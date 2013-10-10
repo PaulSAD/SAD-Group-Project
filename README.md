@@ -11,9 +11,13 @@ Project Responsibilities
 Paul Germanos
 
 Glossary
+
 Supplementary Specification
+
 All Use Case Brief
+
 2 Fully Dressed Use Cases
+
 2 Sequence Diagrams based on Fully Dressed Use Cases
 
 Jacob Mann
